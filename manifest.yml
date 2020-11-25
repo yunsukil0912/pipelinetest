@@ -1,0 +1,7 @@
+---
+applications:
+- name: cf-ex-php
+  memory: 512M
+  instances: 1
+  domain: toast.paas-ta.com
+  path: .
